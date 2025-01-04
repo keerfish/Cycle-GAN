@@ -6,3 +6,6 @@ This toy example of CycleGAN is a simplified implementation of the well-known [C
 [Jun-Yan Zhu](https://people.eecs.berkeley.edu/~junyanz/), [Taesung Park](https://taesung.me/), [Phillip Isola](http://web.mit.edu/phillipi/), [Alexei A. Efros](https://people.eecs.berkeley.edu/~efros/) <br />
 Berkeley AI Research Lab, UC Berkeley <br />
 In ICCV 2017 <br />
+
+## Architecture
+
