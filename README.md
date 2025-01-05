@@ -8,4 +8,6 @@ Berkeley AI Research Lab, UC Berkeley <br />
 In ICCV 2017 <br />
 
 ## Architecture
-
+<p align="center">
+  <img src="https://github.com/keerfish/Cycle-GAN-Lea/blob/main/imgs/architecture.jpg" align="center" width="400px"/>
+</p>
