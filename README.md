@@ -10,7 +10,10 @@ In ICCV 2017 <br />
 ## Architecture
 The original paper, [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://ieeexplore.ieee.org/document/8237506) presents desired applications such as photo-to-painting translation, style and season transfer, object transfiguration, and photo enhancement. The example here only implemented image translation between photos and paintings. The architecture is illustrated as follows:
 <p align="center">
-  <img src="https://github.com/keerfish/Cycle-GAN/blob/main/imgs/architecture_c.jpg" align="center" width="750px"/>
+  <img src="https://github.com/keerfish/Cycle-GAN/blob/main/imgs/architecture_c.jpg" align="center" width="550px"/>
 </p>
 
 ## Visual Results
+<p align="center">
+  <img src="https://github.com/keerfish/Cycle-GAN/blob/main/imgs/result.jpg" align="center" width="700px"/>
+</p>
