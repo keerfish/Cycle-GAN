@@ -9,5 +9,5 @@ In ICCV 2017 <br />
 
 ## Architecture
 <p align="center">
-  <img src="https://github.com/keerfish/Cycle-GAN-Lea/blob/main/imgs/architecture.jpg" align="center" width="400px"/>
+  <img src="https://github.com/keerfish/Cycle-GAN/tree/main/imgs/test.jpg" align="center" width="400px"/>
 </p>
