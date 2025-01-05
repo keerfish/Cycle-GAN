@@ -15,5 +15,5 @@ The original paper, [Unpaired Image-to-Image Translation using Cycle-Consistent 
 
 ## Visual Results
 <p align="center">
-  <img src="https://github.com/keerfish/Cycle-GAN/blob/main/imgs/result.jpg" align="center" width="700px"/>
+  <img src="https://github.com/keerfish/Cycle-GAN/blob/main/imgs/result.jpg" align="center" width="500px"/>
 </p>
